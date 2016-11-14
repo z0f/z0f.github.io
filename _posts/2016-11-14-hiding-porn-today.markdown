@@ -33,7 +33,7 @@ I highly recommend Mega. You get *50GB FREE*, so you won’t have to pay anythin
 Flash Drives are getting cheaper and cheaper. I just picked up a 64GB for $20 bucks at Walmart. Are you kidding me? I can simply stash all the porn I want into it, hide it in the desk and never worry about it again, or even better keep it on my keychain and hide it in a bunch of folders. If someone is going through that flash drive. They ether stole my keys or I’m dead (At that point I don’t give a shit). Downside with this is you may loss your stash if you are not careful.
 
 
-#. 3 Use Archiving Software
+# 3. Use Archiving Software
 
 
 Depending on the size of the stash. This will ether work for you or against you. Which is why I put this in 3rd. I will explain more later. You can use Software like [PeaZip][4] which can archive all your files/folders into one file. Which will avoid your operating system from indexing the files in the search system. Simply rename your stash archive to something like … “systemFiles.tar.gz” or take it another step, and rename the file extension to something like “.dll” or “.a”. So it would look like “someFile.dll” instead of “myPornstash.zip”.
