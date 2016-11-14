@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Adventures With Storj"
-date:   2016-11-14 01:15:00 -0700
+date:   2016-11-14 03:15:00 -0700
 categories: review
 ---
 
@@ -9,7 +9,7 @@ categories: review
 Today, I’m going to be talking about [Storj][1], a distributed cloud storage system. In a nutshell it sort of works like how torrent system works. Except instead of storing the whole file you are storing for someone. You only get bits and pieces (slow internet friendly), plus it’s encrypted. So you shouldn’t be getting any copyright trolls knocking on your door or your ISP suspending the internet. Plus you may actually get paid for storing the files.
 
 
-This maybe a two part article on this trial and error deal I got myself into, but I would like to explain the process, and my current point of view of the hole thing. This may or may not help anyone new to Storj or bring any new light for Storj team, but let’s see how this goes.
+This maybe a two or three part article on this trial and error deal I got myself into, but I would like to explain the process, and my current point of view of the hole thing. This may or may not help anyone new to Storj or bring any new light for Storj team, but let’s see how this goes.
 
 
 # The Setup
@@ -33,10 +33,10 @@ I’m sure you are wondering now. Should I invest in a good SSD and computer I c
 # Tips and Thoughts
 
 
-Make sure you setup Storj Share to automatically start, specially on Windows. The installer should have an option to do this for you IMO.
-Rent out a good chunk of space to see bigger numbers. (16GB to 1TB should be good for now till this thing starts rolling)
-Don’t create your online wallet in *FireFox* when you want to accept SJCX/bitcoin currency from the online wallet’s Storj Share provides. There is a bug that prevents you setting up your wallet for the first time, and I can only imagine it may cause more issues in other places.
-No idea on payout dates exactly. From what I gather it’s every 2-4 weeks Storj does payouts for people renting out space.
+- Make sure you setup Storj Share to automatically start, specially on Windows. The installer should have an option to do this for you IMO.
+- Rent out a good chunk of space to see bigger numbers. (16GB to 1TB should be good for now till this thing starts rolling)
+- Don’t create your online wallet in *FireFox* when you want to accept SJCX/bitcoin currency from the online wallet’s Storj Share provides. There is a bug that prevents you setting up your wallet for the first time, and I can only imagine it may cause more issues in other places.
+- No idea on payout dates exactly. From what I gather it’s every 2-4 weeks Storj does payouts for people renting out space.
 
 
 [Storj’s Website][1]
