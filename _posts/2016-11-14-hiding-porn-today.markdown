@@ -59,8 +59,8 @@ I hate this option. Don't do this unless you have a dedicated computer **YOU** o
 Not much of a first post, but I hope to bring more to the table. For now I wanted to get this out of the way, since I seen this answered a million times in the most laziest way.
 
 
-[1]: https://mega.nz/ “MEGA”
-[2]: https://drive.google.com “Google Drive”
-[3]: https://www.dropbox.com “Dropbox”
-[4]: http://www.peazip.org “PeaZip”
-[5]: https://del.icio.us/ “Delicious”
+[1]: https://mega.nz/
+[2]: https://drive.google.com
+[3]: https://www.dropbox.com
+[4]: http://www.peazip.org
+[5]: https://del.icio.us/
