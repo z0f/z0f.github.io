@@ -1,0 +1,20 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: z0f - Everything Is Fucked
+email: z0f.offical@protonmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Random articles, information of things: internet or IRL. This includes rants, security, tips/tricks, or pretty much whatever else I feel like I should bring up.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://z0f.github.io" # the base hostname & protocol for your site
+twitter_username: z0f_Offical
+github_username:  z0f
+bitcoin_address:  1MdMvnQzyBZEXn4nMT379ifjLYSfK7JTvw
+
+# Build settings
+markdown: kramdown
